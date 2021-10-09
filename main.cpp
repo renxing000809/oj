@@ -3,7 +3,18 @@ using namespace std;
 
 
 int main() {
+    cout << "aaaaa" << endl;
+    cout << "aaaaa" << endl;
+    cout << "aaaaa" << endl;
 
-    cout << "ren xing hao shuai a " << endl;
+
+
+
+
+
+
+    cout << "aaaaa" << endl;cout << "aaaaa" << endl;
+
+
     return 0;
 }
