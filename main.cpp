@@ -1,7 +1,5 @@
-#include "iostream"
-#include "algorithm"
+#include<bits/stdc++.h>
 using namespace std;
-
 int n, m, h[100005], edg_cnt, fa[100005], cnt, ans;
 
 struct edge {
