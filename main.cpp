@@ -90,5 +90,7 @@ int main() {
     auto b = duration_cast<milliseconds>(t1 - t0);
     cout << "ÓÃÊ±" << b.count() << "ms" << endl;
 
+    cout << "renxinghaoshuI" << endl;
+
     return 0;
 }
